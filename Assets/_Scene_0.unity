@@ -313,6 +313,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b317f20814ccb9649ba3594c6d1c7998, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  uitLevel: {fileID: 0}
+  uitShots: {fileID: 0}
+  uitButton: {fileID: 0}
+  castlePos: {x: 0, y: 0, z: 0}
+  castles: []
+  level: 0
+  levelMax: 0
+  shotsTaken: 0
+  castle: {fileID: 0}
+  mode: 0
+  showing: Show Slingshot
 --- !u!1 &316562691
 GameObject:
   m_ObjectHideFlags: 0
